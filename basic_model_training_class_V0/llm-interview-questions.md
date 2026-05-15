@@ -1,0 +1,32 @@
+- What are foundation models?
+- What is a Large Language Model (LLM), and how does it work?
+- What is the Transformer architecture and how does it work?
+- What are the key components of the Transformer architecture?
+- What is tokenization in LLMs?
+- Explain BPE (Byte Pair Encoding).
+- Explain WordPiece and SentencePiece.
+- What is positional encoding, and why is it needed in Transformers?
+- What are embeddings?
+- What is causal masking?
+- What is self-attention, and how does it work in Transformers?
+- Explain the Query(Q), Key(K), and Value(V) in attention.
+- What are multi-head attention mechanisms? Why use multiple attention heads?
+- What is the context window in LLMs, and why does it matter?
+- What is temperature in the context of LLMs, and how does it affect output?
+- Explain Top-p (nucleus) sampling and Top-k sampling. How do they differ?
+- What are logits, and how are they used in text generation?
+- What are skip connections (residual connections) in Transformers?
+- What is the difference between open-source and closed-source LLMs? When would you choose one over the other?
+- What is the difference between encoder-only, decoder-only, and encoder-decoder Transformer architectures?
+- What is KV cache, and how does it speed up inference?
+- What are Paged Attention and vLLM?
+- Explain the difference between autoregressive and masked language modeling.
+- What is model distillation, and how is it used with LLMs?
+- What is Mixture of Experts (MoE), and how does it work in models like Mixtral?
+- What is Flash Attention?
+- What is fine-tuning, and when should you fine-tune an LLM?
+- Explain the difference between full fine-tuning and parameter-efficient fine-tuning (PEFT).
+- What is LoRA (Low-Rank Adaptation), and how does it work?
+- What is QLoRA, and how does it enable fine-tuning on consumer hardware?
+- What is Dropout?
+- What is Layer Normalization?
